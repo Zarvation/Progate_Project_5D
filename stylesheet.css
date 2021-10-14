@@ -90,7 +90,7 @@ font-size: 20px;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-@keyframes 3 {
+@keyframes s {
     0%{
         transform: translateX(0);
         opacity: 0;
@@ -110,8 +110,8 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .stars img {
-    width: 50px;
-    animation: 3 4s linear infinite;
+    width: 500px;
+    animation: s 4s linear infinite;
 }
 
 .stars {

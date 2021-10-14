@@ -165,3 +165,49 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 .stars img:nth-child(7){
     animation-delay: 6s;
 }
+.main {
+    padding: 100px 80px;
+}
+
+.container-text {
+    float: right;
+    padding: 33px 20px;
+    margin: 60px 30px 0;
+    font-family: Oswald,sans-serif;
+    margin: 48px auto 60px 30px;
+    background-image: linear-gradient(pink, orange);
+}
+
+h3 {
+    font-weight: 700;
+    line-height: 1.2;
+    font-size: 2.25rem;
+    margin-top: 20px;
+    margin-bottom:20px;
+    color: #488df4 !important;
+    word-wrap: break-word;
+    position: relative;
+    display: block;
+}
+a {
+    margin: 48px auto 60px 30px;
+}
+a:hover {
+    color: #fe73c9;
+}
+
+p {
+    font-weight: 400;
+    line-height: 1.7;
+    font-size: 1.125rem;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+a .link-1 {
+    margin: 48px auto 60px 30px;
+    text-align: left;
+
+}
+.content-item {
+    background-color: none;
+}

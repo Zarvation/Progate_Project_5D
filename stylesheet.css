@@ -27,7 +27,7 @@ header li {
 }
 
 header {
-  background-color: #26d0c9;
+  background-color: #ffa500;
   color: #fff;
   height: 90px;
   width: 100%;
@@ -49,7 +49,7 @@ header .bi-list {
 }
 
 header li:hover{
-    color: grey;
+    color: gray;
     cursor: pointer;
 }
 
@@ -186,7 +186,7 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 footer{
     display:flex;
     flex-direction: row;
-    background:#26d0c9;
+    background:#ffa500;
     color:white;
 }
 .footer-left{

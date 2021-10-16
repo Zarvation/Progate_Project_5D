@@ -170,12 +170,12 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     width: 50%;
     align-self: center;
 }
-.content-text h1{
+.content h1{
     font-family: Impact;
     font-size: 35px;
     padding-bottom: 30px;
 }
-.content-text p{
+.content p{
     font-family: 'Segoe UI';
     font-size: 18px;
     line-height: 30px;
@@ -251,15 +251,3 @@ footer p{
 .stars img:nth-child(7){
     animation-delay: 7s;
 }
-.content img{
-    width: 25%;
-    float: left;
-}
-.content h1{
-    font-size: 30px;
-}
-.content p{
-    font-size: 12px;
-    line-height: 14px;
-}
-

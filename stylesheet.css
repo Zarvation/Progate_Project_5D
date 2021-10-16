@@ -105,21 +105,8 @@ font-size: 15px;
 font-family: Helvetica;
 letter-spacing: 2px;
 }
-
-.pink{
-    color: #ff52ba;
-}
-
 .blue{
     color: royalblue;
-}
-
-.cyan{
-    color: #00b39b;
-}
-
-.yellow{
-    color:#dbbe00;
 }
 
 .lesson {
@@ -184,16 +171,12 @@ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 
 footer{
-    display:flex;
-    flex-direction: row;
     background:#ffa500;
     color:white;
-}
-.footer-left{
-    padding:20px;
+    padding: 40px;;
 }
 footer p{
-    margin:auto;
+    text-align: center;
 }
 
 
